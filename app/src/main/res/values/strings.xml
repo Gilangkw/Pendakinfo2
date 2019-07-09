@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Pendakinfo</string>
+
+    // TODO: 22/02/18
+    <string name="home">Home</string>
+    <string name="peralatan">Peralatan</string>
+    <string name="jalurpendakian">Jalur Pendakian</string>
+    <string name="carber">Cari Barengan</string>
+    <string name="infogunung">Info Gunung</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">BERITA</string>
+    <string name="slide_1_desc">Berita terbaru seputar gunung di indonesia</string>
+
+    <string name="slide_2_title">PERALATAN</string>
+    <string name="slide_2_desc">Lupa atau mau tau peralatan yang harus dibawa ?</string>
+
+    <string name="slide_3_title">MAP PENDAKIAN</string>
+    <string name="slide_3_desc">Cari MAP atau jalur pendakian ?</string>
+
+    <string name="slide_4_title">INFO GUNUNG</string>
+    <string name="slide_4_desc">Lagi nyari tau info gunung yang mau di datangi ?</string>
+
+</resources>

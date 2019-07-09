@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home_menu"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/peralatan_menu"
+        android:title="@string/peralatan"
+        android:icon="@drawable/ic_peralatan"/>
+
+    <item
+        android:id="@+id/jalur_menu"
+        android:title="@string/jalurpendakian"
+        android:icon="@drawable/ic_jalur"/>
+    <item
+    android:id="@+id/carber_menu"
+    android:title="@string/carber"
+    android:icon="@drawable/ic_caribarengan"/>
+
+    <item
+        android:id="@+id/info_menu"
+        android:title="@string/infogunung"
+        android:icon="@drawable/ic_infogunung"/>
+
+</menu>
